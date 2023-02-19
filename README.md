@@ -1,4 +1,4 @@
-# FLASK CUPCAKES API#
+# FLASK CUPCAKES API #
 
 Javascript and Python API to allow users to view, add, update, and delete cupcakes on a list.
 
